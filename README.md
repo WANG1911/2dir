@@ -18,3 +18,7 @@ The dataset used in this project can be accessed here: [Dataset Link](https://ex
 ## 📊 Results
 ### The model demonstrates robust predictive capability across multiple amyloidogenic fragments (Fig. 2):
 ![Figure 2](fig/fig2.png)
+
+
+
+![Figure 3](fig/fig3.png)
