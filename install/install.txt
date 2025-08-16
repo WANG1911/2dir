@@ -1,1 +1,18 @@
+# Install PyTorch (GPU version, CUDA 11.3)
+conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+
+# Scientific computing and data processing
+conda install numpy pandas scipy scikit-learn
+
+# Image processing and visualization
+conda install Pillow matplotlib seaborn
+
+# Deep learning training utilities
+conda install tensorboard tqdm
+
+# Bioinformatics
+conda install biopython
+
+# Other useful tools
+conda install ipython jupyter
 
