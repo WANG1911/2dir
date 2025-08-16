@@ -20,5 +20,5 @@ The dataset used in this project can be accessed here: [Dataset Link](https://ex
 ![Figure 2](fig/fig2.png)
 
 
-
+### Model-informed prediction of the structural evolution of Aβ42 during molecule inhibitor binding (Fig. 3):
 ![Figure 3](fig/fig3.png)
