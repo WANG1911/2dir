@@ -10,7 +10,7 @@ The workflow consists of three stages (Fig. 1):
 2. Machine learning protocol  
 3. Model application
    
-The dataset used in this project can be accessed here: [Dataset Link](10.5281/zenodo.16885502).
+The dataset used in this project can be accessed at [https://doi.org/10.5281/zenodo.16885502](https://doi.org/10.5281/zenodo.16885502).
 
 ### Fig. 1
 ![Figure 1](fig/fig1.png)
