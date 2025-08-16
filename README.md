@@ -23,3 +23,6 @@ The dataset used in this project can be accessed here: [Dataset Link](https://do
 
 ### Model-informed prediction of the structural evolution of Aβ42 during molecule inhibitor binding (Fig. 3):
 ![Figure 3](fig/fig3.png)
+
+## Usage
+To reproduce the experimental results or apply this method to your own spectral data, please use the provided `train.py` script together with the pre-trained model weights available on [Google Drive](https://drive.google.com/file/d/10beAnLedYaHMcwU_RjRiBr3hS4v3bMAp/view?usp=sharing).
